@@ -1,0 +1,1 @@
+console.log("Setting up environment with node and express")

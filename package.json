@@ -1,0 +1,17 @@
+{
+  "name": "enjoying-backend",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Nitin singla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
